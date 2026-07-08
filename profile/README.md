@@ -4,12 +4,16 @@
 
 # OSSDrop
 
-### 💧 Drop your open-source tool.
+**Drop your open-source tool.**
 
 A community-curated home for open-source tools — by the people who build them.
 Discover great projects, share your own, no gatekeeping.
 
-[**📋 The List**](https://github.com/OSSDrop/list) · [**💬 r/OSSDrop**](https://www.reddit.com/r/OSSDrop/) · [**🌐 ossdrop.com**](https://ossdrop.com)
+[![The List](https://img.shields.io/badge/The%20List-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OSSDrop/list)
+&nbsp;
+[![r/OSSDrop](https://img.shields.io/badge/r%2FOSSDrop-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/OSSDrop/)
+&nbsp;
+[![Website](https://img.shields.io/badge/ossdrop.com-coming%20soon-2563EB?style=for-the-badge)](https://ossdrop.com)
 
 </div>
 
@@ -17,11 +21,11 @@ Discover great projects, share your own, no gatekeeping.
 
 ### What is OSSDrop?
 
-Makers of open-source tools have no clean home to *launch* and *be found*. Awesome-lists are static; the big directories aren't built for open source. **OSSDrop** fixes that:
+A curated, honest home for open-source tools — and the community around them.
 
-- **[OSSDrop/list](https://github.com/OSSDrop/list)** — a curated, honest list of open-source tools. Built something? **Open a PR and drop it in.**
+- **[OSSDrop/list](https://github.com/OSSDrop/list)** — a curated list of open-source tools. Built something? Open a PR and drop it in.
 - **[r/OSSDrop](https://www.reddit.com/r/OSSDrop/)** — post, discuss, and discover. A neutral space no competitor can moderate you out of.
-- **[ossdrop.com](https://ossdrop.com)** *(coming soon)* — a launch platform for open-source projects. Think "Product Hunt, but only for open source."
+- **[ossdrop.com](https://ossdrop.com)** — coming soon.
 
 ### Drop your tool
 
@@ -29,7 +33,7 @@ Makers of open-source tools have no clean home to *launch* and *be found*. Aweso
 2. Add your tool to the right category (one line, honest description)
 3. Open a PR — that's it.
 
-Open source only. No hype, no dead links, no pay-to-play. **[Contributing guide →](https://github.com/OSSDrop/list/blob/main/CONTRIBUTING.md)**
+Open source only. No hype, no dead links, no pay-to-play. See the contributing guide in the list repo.
 
 ---
 
